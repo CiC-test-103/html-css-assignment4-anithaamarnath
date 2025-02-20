@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 150px;
   height:150px;
   border-radius: 50%;
-  background: linear-gradient(to bottom, var(--gra-lightSlateBlue), var( --gra-lightRoyalBlue));
+  background: linear-gradient(to bottom, var(--gra-lightRoyalBlue), var(--gra-lightRoyalBlue ));
   display:flex;
   justify-content: center;
   align-items: center;
