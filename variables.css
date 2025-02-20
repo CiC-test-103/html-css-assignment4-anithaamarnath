@@ -23,7 +23,7 @@
   /* Colours */
   --clr-lightRed: hsl(0, 100%, 67%);
   --clr-orangeYellow: hsl(39, 100%, 56%);
-  --clr-greenTeal: hsl(166, 100%, 3%);
+  --clr-greenTeal: hsl(168, 90%, 32%);
   --clr-cobaltBlue: hsl(234, 85%, 45%);
 
   /* Gradients */
@@ -47,4 +47,10 @@
 
   /* Fonts */
   --fs-base: 'Hanken Grotesk';
+
+  /* Lighter Color */
+  --clr-lighterRed: hsl(0, 40%, 94%);
+  --clr-lighterOrange: hsl(38, 40%, 92%);
+  --clr-lighterGreen: hsl(167, 39%, 93%);
+  --clr-lighterBlue: hsl(228, 33%, 94%);
 }
